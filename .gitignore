@@ -1,0 +1,9 @@
+*.mp4
+*.avi
+examples/
+*.pdf
+*.jpg
+test.png
+test5.png
+airplane2_mask.png
+airplane2_out.png
